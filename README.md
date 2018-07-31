@@ -1,3 +1,3 @@
 This is a quick demo of installing and using git hooks.
 
-Follow the steps in `hooks.sh` to see what happens.
+Interactively run the commands in `hooks.sh` to see the examples.
